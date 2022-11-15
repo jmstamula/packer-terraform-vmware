@@ -70,12 +70,12 @@
         ],
   
         "floppy_files": [
-            "autounattend.xml",
-            "../scripts/disable-network-discovery.cmd",
-            "../scripts/enable-rdp.cmd",
-            "../scripts/enable-winrm.ps1",
-            "../scripts/install-vm-tools.cmd",
-            "../scripts/set-temp.ps1"
+            "../packer-vsphere-iso-windows/win2019.base/autounattend.xml",
+            "../packer-vsphere-iso-windows/scripts/disable-network-discovery.cmd",
+            "../packer-vsphere-iso-windows/scripts/enable-rdp.cmd",
+            "../packer-vsphere-iso-windows/scripts/enable-winrm.ps1",
+            "../packer-vsphere-iso-windows/scripts/install-vm-tools.cmd",
+            "../packer-vsphere-iso-windows/scripts/set-temp.ps1"
         ]
       }
     ],
