@@ -10,3 +10,4 @@ packer_cache/
 # For built boxes
 *.box
 preseed*
+packer.exe
