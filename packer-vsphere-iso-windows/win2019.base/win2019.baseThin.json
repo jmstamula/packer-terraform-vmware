@@ -2,7 +2,7 @@
     "variables": {
     "vsphere-server": "vxsng1im00001.int.carlsonwagonlit.com",
     "vsphere-user": "Administrator@vsphere.local",
-    "vsphere-password": "#CWTsinadmin321",
+    "vsphere-password": "xxxxxx",
     
     "vsphere-datacenter": "APAC",
     "vsphere-cluster": "Singapore",
