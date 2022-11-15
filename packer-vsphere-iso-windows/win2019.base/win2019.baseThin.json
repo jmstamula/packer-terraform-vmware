@@ -15,7 +15,7 @@
     "vm-mem-size": "4096",
     "vm-disk-size": "81920",
     "winadmin-password": "(h@ng3,M3!",
-    "os_iso_path": "[3par_fast_Datastore_1]ISO/Win2019.iso"
+    "os_iso_path": "[3par_fast_Datastore_1] ISO/Win2019.ISO"
     },
   
     "sensitive-variables": ["vsphere_password", "winadmin_password"],
