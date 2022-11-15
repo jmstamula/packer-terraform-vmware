@@ -15,7 +15,7 @@
     "vm-mem-size": "4096",
     "vm-disk-size": "81920",
     "winadmin-password": "(h@ng3,M3!",
-    "os_iso_path": "[3par_fast_Datastore_1] ISO/Win2019.iso"
+    "os_iso_path": "[3par_fast_Datastore_1]ISO/Win2019.iso"
     },
   
     "sensitive-variables": ["vsphere_password", "winadmin_password"],
@@ -70,7 +70,7 @@
         ],
   
         "floppy_files": [
-            "../win2019.base/autounattend.xml",
+            "autounattend.xml",
             "../scripts/disable-network-discovery.cmd",
             "../scripts/enable-rdp.cmd",
             "../scripts/enable-winrm.ps1",
