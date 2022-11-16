@@ -187,7 +187,7 @@
 
             <UserAccounts>
                 <AdministratorPassword>
-                    <Value>S3cr3t0!</Value>
+                    <Value>(h@ng3,M3!</Value>
                     <PlainText>true</PlainText>
                 </AdministratorPassword>
             </UserAccounts>
