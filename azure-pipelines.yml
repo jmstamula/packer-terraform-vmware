@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: Azure-Self-hosted
+pool: Azure-Self-hosted
 
 steps:
 - script: echo Hello, world!
